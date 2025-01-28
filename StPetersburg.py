@@ -1,3 +1,8 @@
+'''The St Petersburg Paradox is a game with theoretically infinite expectation. I wrote out the following 
+monte carlo simulation to find out the realistic amount of money we can expect to win from this game. 
+(Its not very high, about 20-30)
+'''
+
 import random 
 
 sum = 0
